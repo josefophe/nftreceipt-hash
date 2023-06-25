@@ -10,4 +10,17 @@
 *Augustina Godwin(charityaugustina688@gmail.com)
 
 *NFT Receipt utilizes Hedera's technology to provide a secure and transparent platform for verifying the authenticity and ownership of non-fungible tokens (NFTs). By leveraging Hedera's decentralized ledger and consensus algorithm, NFT Receipt ensures that NFT transactions are recorded immutably, timestamped accurately, and publicly verifiable. This integration with Hedera enables NFT Receipt to establish a reliable source of truth for NFT ownership, promote trust and transparency in the NFT ecosystem, and offer scalability and efficiency in handling high transaction volumes. Overall, NFT Receipt harnesses the power of Hedera's technology to enhance the verification process and instill confidence in NFT buyers, artists, and collectors.
+
 Tech stacks used are React and Hash connect
+
+Hash Connector provides a comprehensive blockchain-based solution for secure digital asset management, including tokenization, decentralized storage, and asset tracking.
+
+Technology Infrastructure: Hash Connector leverages blockchain technology, smart contracts, and decentralized storage to ensure transparency, immutability, and security for digital assets.
+
+Technology Services: Hash Connector offers tokenization services, decentralized storage solutions, and asset tracking tools to enable efficient management and verification of digital assets on the blockchain
+
+React is a JavaScript library that provides a flexible and efficient solution for building user interfaces and web applications just like the NFT receipt.
+
+Technology Infrastructure: React utilizes a virtual DOM (Document Object Model) and a component-based architecture to enable efficient rendering and updates of user interfaces.
+
+Technology Services: React offers a wide range of tools, libraries, and extensions that enhance development productivity, such as React Router for routing, Redux for state management, and React Native for mobile app development.
