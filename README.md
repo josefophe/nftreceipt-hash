@@ -10,3 +10,4 @@
 *Augustina Godwin(charityaugustina688@gmail.com)
 
 *NFT Receipt utilizes Hedera's technology to provide a secure and transparent platform for verifying the authenticity and ownership of non-fungible tokens (NFTs). By leveraging Hedera's decentralized ledger and consensus algorithm, NFT Receipt ensures that NFT transactions are recorded immutably, timestamped accurately, and publicly verifiable. This integration with Hedera enables NFT Receipt to establish a reliable source of truth for NFT ownership, promote trust and transparency in the NFT ecosystem, and offer scalability and efficiency in handling high transaction volumes. Overall, NFT Receipt harnesses the power of Hedera's technology to enhance the verification process and instill confidence in NFT buyers, artists, and collectors.
+Tech stacks used are React and Hash connect
