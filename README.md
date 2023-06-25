@@ -6,7 +6,9 @@
 * An overview of the problem being addressed is that the NFT Receipt project addresses the problem of trust and transparency in the digital art market related to non-fungible tokens (NFTs). Currently, there is no standardized system to verify the authenticity and ownership of NFTs, leading to concerns about counterfeit and stolen tokens. This lack of verification creates uncertainty for buyers and challenges for artists in protecting their work.The project aims to solve this problem by leveraging blockchain technology and smart contracts to establish a secure and tamper-proof record of ownership and authenticity for NFTs. By providing a standardized method for verifying NFTs, the project aims to build trust among buyers, artists, and collectors. This will contribute to the growth and sustainability of the digital art market by creating a transparent and trustworthy platform for NFT transactions.
 
 *josefophe(josefophe@gmail.com)
+
 *Blessing Ebin(ebinblessing09@gmail.com)
+
 *Augustina Godwin(charityaugustina688@gmail.com)
 
 *NFT Receipt utilizes Hedera's technology to provide a secure and transparent platform for verifying the authenticity and ownership of non-fungible tokens (NFTs). By leveraging Hedera's decentralized ledger and consensus algorithm, NFT Receipt ensures that NFT transactions are recorded immutably, timestamped accurately, and publicly verifiable. This integration with Hedera enables NFT Receipt to establish a reliable source of truth for NFT ownership, promote trust and transparency in the NFT ecosystem, and offer scalability and efficiency in handling high transaction volumes. Overall, NFT Receipt harnesses the power of Hedera's technology to enhance the verification process and instill confidence in NFT buyers, artists, and collectors.
